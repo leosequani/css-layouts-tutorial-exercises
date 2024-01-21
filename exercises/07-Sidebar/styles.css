@@ -1,11 +1,19 @@
 #wrapper {
-    background: grey;
+	background: grey;
+	height: 100px;
+	display: flex;
+	width: 100%;
 }
 
 #sidebar {
-    background: blue;
+	float: left;
+	height: 100%;
+	width: 30%;
+	background: grey;
 }
 
 #content {
-    background: yellow;
+	background: green;
+	height: 100%;
+	width: 70%;
 }

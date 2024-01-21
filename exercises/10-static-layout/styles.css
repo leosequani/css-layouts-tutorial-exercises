@@ -1,5 +1,19 @@
-/* your code here */
+.secondWrapper {
+	display: flex;
+}
+nav {
+	width: 20%;
+	margin: 10px;
+}
 
+section {
+	width: 80%;
+	margin: 10px;
+}
+
+header {
+	margin: 10px;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
